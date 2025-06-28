@@ -14,5 +14,5 @@ echo "colab:123456" | sudo chpasswd
 # Install and run ngrok for tunneling
 wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-stable-linux-amd64.zip
 unzip ngrok-stable-linux-amd64.zip
-./ngrok authtoken YOUR_NGROK_AUTH_TOKEN
+./ngrok authtoken 2z8c5XL88OBDGcfPBMuJMRzNLFE_872JVV6JQ5tAcewwQZZXw
 ./ngrok tcp 3389
